@@ -1,2 +1,7 @@
+#ignored main.c test files
 *main.c
 binary_tree_print.c
+# ignored files compiled
+0-node
+1-left
+2-right
